@@ -1,2 +1,3 @@
 # WebScraping
-Prática de WebScraping com Python pela Alura, em desenvolvimento 
+
+Prática de WebScraping com Python pela Alura, utilizando Beautiful Soup.
